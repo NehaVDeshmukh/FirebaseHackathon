@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "182486244023",
+    "firebase_url": "https://firedroids-b43ed.firebaseio.com",
+    "project_id": "firedroids-b43ed",
+    "storage_bucket": "firedroids-b43ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182486244023:android:98316d66d1dde971",
+        "android_client_info": {
+          "package_name": "com.example.firedroids.firedroids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182486244023-pcffulp8pfilsu6l0jib425t7gcru6p2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firedroids.firedroids",
+            "certificate_hash": "322e8e3b74dea39505976ddbd6ee5d090d548a88"
+          }
+        },
+        {
+          "client_id": "182486244023-jj54lqt3te29dj1o4nr6po4rhfc842l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3IonhNXu_I1fkJOvUgZBxWgog8bw7ksw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182486244023-jj54lqt3te29dj1o4nr6po4rhfc842l8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
