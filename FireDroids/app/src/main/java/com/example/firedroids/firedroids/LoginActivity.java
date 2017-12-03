@@ -155,7 +155,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
             //mDetailTextView.setText(getString(R.string.firebase_status_fmt, user.getUid()));
             findViewById(R.id.email_login_form).setVisibility(View.GONE);
             findViewById(R.id.email_sign_in_button).setVisibility(View.GONE);
-            findViewById(R.id.Page2).setVisibility(View.VISIBLE);
+            //findViewById(R.id.Page2).setVisibility(View.VISIBLE);
             //findViewById(R.id.email_password_buttons).setVisibility(View.GONE);
             //findViewById(R.id.email_password_fields).setVisibility(View.GONE);
             //findViewById(R.id.signed_in_buttons).setVisibility(View.VISIBLE);
@@ -169,7 +169,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
             //findViewById(R.id.signed_in_buttons).setVisibility(View.GONE);
             findViewById(R.id.email_login_form).setVisibility(View.GONE);
             findViewById(R.id.email_sign_in_button).setVisibility(View.GONE);
-            findViewById(R.id.Page2).setVisibility(View.VISIBLE);
+            //findViewById(R.id.Page2).setVisibility(View.VISIBLE);
         }
     }
 
